@@ -84,8 +84,8 @@ export default function SupportPage() {
 						Support Center
 					</h1>
 					<p className="text-xl md:text-2xl text-gray-300 mb-12 max-w-4xl mx-auto">
-						Need help? We're here to assist you with any questions or issues you
-						might have.
+						Need help? We&apos;re here to assist you with any questions or
+						issues you might have.
 					</p>
 					<div className="flex flex-col sm:flex-row gap-4 justify-center">
 						<button className="bg-purple-600 hover:bg-purple-700 text-white px-8 py-4 rounded-lg text-lg font-semibold transition-all duration-300 transform hover:scale-105">
